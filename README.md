@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @Etern1tyDark!<br>👀 Currently I have many fields of work, such as Cyber Security, IoT, Robotics and Web Development.<br>🌱 I’m currently focusing on learning Digital Forensics, Cryptography and Web Development(NEXT/Vue).<br>My other account for college work: @NathanKhoP<br>
+👋 Hi, I’m @Etern1tyDark!<br>👀 Currently I have many fields of work, such as Cyber Security, IoT, Robotics and Web Development.<br>🌱 I’m currently focusing on learning Digital Forensics, Cryptography and Web Development(NEXT/Vue).<br>My other account for college work: [@NathanKhoP](https://github.com/NathanKhoP)
+<br>
 
 
 ## 🌐 Socials:
