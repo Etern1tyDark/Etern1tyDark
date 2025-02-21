@@ -1,7 +1,9 @@
-# 💫 About Me:
-👋 Hi, I’m @Etern1tyDark!<br>👀 Currently I have many fields of work, such as Cyber Security, IoT, Robotics and Web Development.<br>🌱 I’m currently focusing on learning Digital Forensics, Cryptography and Web Development(NEXT/Vue).<br>My other account for college work: [@NathanKhoP](https://github.com/NathanKhoP)
-<br>
-
+<h1 align="center" markdown="1">
+  ~/
+</h1>
+<h3 align="center" markdown="1">
+  alias of <a href="https://github.com/NathanKhoP">NathanKhoP</a>
+</h3>
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Etern1tyDark) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Etern1tyDark) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/etern1tydark) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@etern1tydark) 
@@ -13,8 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Etern1tyDark&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Etern1tyDark&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/etern1ty) 
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/etern1ty) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
